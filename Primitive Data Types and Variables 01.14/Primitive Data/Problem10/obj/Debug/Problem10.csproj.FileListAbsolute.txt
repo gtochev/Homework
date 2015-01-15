@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem10\bin\Debug\Problem10.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem10\bin\Debug\Problem10.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem10\bin\Debug\Problem10.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem10\obj\Debug\Problem10.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem10\obj\Debug\Problem10.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem10\obj\Debug\Problem10.csprojResolveAssemblyReference.cache

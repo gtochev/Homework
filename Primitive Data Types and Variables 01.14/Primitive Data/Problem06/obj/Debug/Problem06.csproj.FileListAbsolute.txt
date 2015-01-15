@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem06\bin\Debug\Problem06.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem06\bin\Debug\Problem06.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem06\bin\Debug\Problem06.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem06\obj\Debug\Problem06.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem06\obj\Debug\Problem06.pdb
