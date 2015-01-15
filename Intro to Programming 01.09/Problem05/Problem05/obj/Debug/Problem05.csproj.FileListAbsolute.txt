@@ -1,0 +1,11 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem05\Problem05\bin\Debug\Problem05.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem05\Problem05\bin\Debug\Problem05.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem05\Problem05\bin\Debug\Problem05.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem05\Problem05\obj\Debug\Problem05.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem05\Problem05\obj\Debug\Problem05.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem05\Problem05\bin\Debug\Problem05.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem05\Problem05\obj\Debug\Problem05.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem05\Problem05\obj\Debug\Problem05.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem05\Problem05\bin\Debug\Problem05.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem05\Problem05\bin\Debug\Problem05.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem05\Problem05\obj\Debug\Problem05.csprojResolveAssemblyReference.cache

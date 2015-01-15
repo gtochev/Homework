@@ -1,0 +1,9 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\One to thousand\One to thousand\bin\Debug\One to thousand.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\One to thousand\One to thousand\bin\Debug\One to thousand.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\One to thousand\One to thousand\bin\Debug\One to thousand.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\One to thousand\One to thousand\obj\Debug\One to thousand.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\One to thousand\One to thousand\obj\Debug\One to thousand.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\One to thousand\One to thousand\obj\Debug\One to thousand.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\One to thousand\One to thousand\bin\Debug\One to thousand.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\One to thousand\One to thousand\obj\Debug\One to thousand.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\One to thousand\One to thousand\obj\Debug\One to thousand.pdb

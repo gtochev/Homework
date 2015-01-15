@@ -1,0 +1,8 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem06\Problem06\bin\Debug\Problem06.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem06\Problem06\bin\Debug\Problem06.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem06\Problem06\bin\Debug\Problem06.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem06\Problem06\obj\Debug\Problem06.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem06\Problem06\obj\Debug\Problem06.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem06\Problem06\bin\Debug\Problem06.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem06\Problem06\obj\Debug\Problem06.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem06\Problem06\obj\Debug\Problem06.pdb

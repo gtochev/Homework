@@ -1,0 +1,19 @@
+Java and C# 
+
+Are similar programming languages that are statically, strongly, and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" like C and C++.
+
+C# and C++
+
+They both have objects but in C# the objects are managed objects and are garbage collected, in C++ you have to manage memory yourself. C++ supports multiple inheritance, C# does not (but it supports implementing multiple interfaces). The syntax looks similar, but under the covers they are very different.C++ is generally compiled to native code, C# is generally compiled to intermediate language bytecode.
+
+C# and VB.NET
+
+Though C# and VB.NET are syntactically very different, that is where the differences mostly end. Microsoft developed both of these languages to be part of the same .NET Framework development platform. They are both developed, managed, and supported by the same language development team at Microsoft.[5] They compile to the same intermediate language (IL), which runs against the same .NET Framework runtime libraries.
+
+C# and PHP
+
+PHP is a widely-used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML. It is used in Web developement. Both of the languages are inspired by C++. Both are Object orientated, Event-driven and reliable.
+
+C# and asp.net
+
+C# is a CLS programming language designed for the .NET framework. ASP.NET is part of the .NET framework allowing you to write web applications using any CLS compliant language such as C#, VB.NET, F#, .

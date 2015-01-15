@@ -1,0 +1,11 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem07\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem07\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem07\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem07\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem07\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem07\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

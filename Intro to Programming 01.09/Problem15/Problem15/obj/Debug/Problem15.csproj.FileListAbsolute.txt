@@ -1,0 +1,7 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Въведение в програмирането 01.09\Problem15\Problem15\bin\Debug\Problem15.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem15\Problem15\bin\Debug\Problem15.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem15\Problem15\bin\Debug\Problem15.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem15\Problem15\bin\Debug\Problem15.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem15\Problem15\obj\Debug\Problem15.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem15\Problem15\obj\Debug\Problem15.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem15\Problem15\obj\Debug\Problem15.pdb

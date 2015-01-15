@@ -1,0 +1,19 @@
+Code::Blocks	
+
+An open-source cross-platform C/C++ IDE written in wxWidgets. Its pluggable architecture enables it to be extended easily by the use of external plugins (most of its functionality is provided by plugins). Supported compilers are GNU GCC, MS Visual C++ Free Toolkit 2003, Digital Mars, and Borland C++ Compiler 5.5.
+
+CodeLite	
+
+Open-source, cross platform (Windows, Linux & Mac OS) C/C++ IDE written with wxWidgets and released under the GPL license. Features context sensitive help, auto-completion, refactoring, and a full debugging GUI. CodeLite is based on plugins so it can be extended very easily.
+
+DialogBlocks	
+
+Commercial dialog editor for wxWidgets from Anthemion Software Ltd. written by wxWidgets developer Julian Smart. Besides being a RAD tool with C++ and XRC support, it also supports most common compilers and can generate makefiles and MSVC project files.
+
+Eclipse
+
+ Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang.
+
+NetBeans C/C++ Development Pack	
+
+NetBeans IDE includes project types for C and C++ and appropriate project templates. You can work with and create C/C++ applications with dynamic and static libraries, and you can also create C/C++ projects from existing code. C/C++ projects also support Fortran and Assembler files.
