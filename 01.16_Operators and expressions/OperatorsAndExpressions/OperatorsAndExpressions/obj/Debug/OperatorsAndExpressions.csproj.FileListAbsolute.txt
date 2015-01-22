@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb

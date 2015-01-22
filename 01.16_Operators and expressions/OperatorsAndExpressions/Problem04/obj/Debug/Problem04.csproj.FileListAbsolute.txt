@@ -1,0 +1,10 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\Problem04\bin\Debug\Problem04.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\Problem04\bin\Debug\Problem04.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\Problem04\bin\Debug\Problem04.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\Problem04\obj\Debug\Problem04.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\OperatorsAndExpressions\Problem04\obj\Debug\Problem04.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem04\bin\Debug\Problem04.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem04\obj\Debug\Problem04.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem04\obj\Debug\Problem04.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem04\bin\Debug\Problem04.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem04\bin\Debug\Problem04.pdb
