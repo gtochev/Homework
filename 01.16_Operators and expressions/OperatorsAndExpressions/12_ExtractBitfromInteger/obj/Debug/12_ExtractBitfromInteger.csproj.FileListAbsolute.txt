@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\12_ExtractBitfromInteger\bin\Debug\12_ExtractBitfromInteger.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\12_ExtractBitfromInteger\bin\Debug\12_ExtractBitfromInteger.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\12_ExtractBitfromInteger\bin\Debug\12_ExtractBitfromInteger.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\12_ExtractBitfromInteger\obj\Debug\12_ExtractBitfromInteger.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\12_ExtractBitfromInteger\obj\Debug\12_ExtractBitfromInteger.pdb

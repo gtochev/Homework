@@ -10,12 +10,11 @@ namespace Problem11
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a four digit number: ");
             int number = int.Parse(Console.ReadLine());
-            int firstNumber = number % 10;
-            int secondNumber = (number / 10) % 10;
-            int thirdNumber = (number / 100) % 10;
-            int fourthNumber = (number / 1000) % 10;
+            int calculator = 1 << 3;
+            int operation = number & calculator;
+            operation = operation >> 3;
+            Console.WriteLine("bit#3: " + operation);
         }
     }
 }

@@ -10,13 +10,22 @@ namespace Problem10
     {
         static void Main(string[] args)
         {
-            /*
+
             Console.WriteLine("Enter coordinates of the point: ");
-            double firstNumber = double.Parse(Console.ReadLine());
-            double secondNumber = double.Parse(Console.ReadLine());
-            double radius = Math.Sqrt((firstNumber * firstNumber) + (secondNumber * secondNumber));
-            Console.WriteLine((radius) <= 2 ? "The point is in the circle!" : "The point is outside the circle!");
-             */
+            double xCoordinate = double.Parse(Console.ReadLine());
+            double yCoordinate = double.Parse(Console.ReadLine());
+            double radius = (Math.Sqrt(((xCoordinate - 1) * (xCoordinate - 1)) + ((yCoordinate - 1)  * (yCoordinate - 1))));
+            bool insideCircle = radius <= 1.5;
+            bool outRechtangle = (xCoordinate < -1) || (xCoordinate > 5) || (yCoordinate > 1) || (yCoordinate < -1);
+            bool solution = insideCircle && outRechtangle;
+            if (solution)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }

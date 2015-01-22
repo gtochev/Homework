@@ -3,27 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01", "OperatorsAndExpressions\Problem01.csproj", "{7F43E400-94F8-425D-98AC-44A80907B2C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_GravitaionOnTheMoon", "OperatorsAndExpressions\02_GravitaionOnTheMoon.csproj", "{7F43E400-94F8-425D-98AC-44A80907B2C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02", "Problem02\Problem02.csproj", "{AC763983-17E6-4DF1-BC09-8AF198DD4CEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_OddOrEvenInt", "Problem02\01_OddOrEvenInt.csproj", "{AC763983-17E6-4DF1-BC09-8AF198DD4CEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03", "Problem03\Problem03.csproj", "{D8B3B67F-534B-420B-BA23-7EC1084825EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_DivideBy7And5", "Problem03\03_DivideBy7And5.csproj", "{D8B3B67F-534B-420B-BA23-7EC1084825EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04", "Problem04\Problem04.csproj", "{9D0CA409-BE4B-4076-96A8-C0A6276D33E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Rectangles", "Problem04\04_Rectangles.csproj", "{9D0CA409-BE4B-4076-96A8-C0A6276D33E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem05", "Problem05\Problem05.csproj", "{A3E7047E-9B27-4CCD-8682-3D8CDEE00860}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ThirdDigitIs7", "Problem05\05_ThirdDigitIs7.csproj", "{A3E7047E-9B27-4CCD-8682-3D8CDEE00860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem06", "Problem06\Problem06.csproj", "{6C1F18B7-4293-428A-B311-E4CE94F33098}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_FourDigitNumber", "Problem06\06_FourDigitNumber.csproj", "{6C1F18B7-4293-428A-B311-E4CE94F33098}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem07", "Problem07\Problem07.csproj", "{61EACC9E-5ABA-4285-8BED-EC4C0542C96E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_PointInACircle", "Problem07\07_PointInACircle.csproj", "{61EACC9E-5ABA-4285-8BED-EC4C0542C96E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem08", "Problem8\Problem08.csproj", "{38D0156F-E68D-4666-BE8E-1A00B975061A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_PrimeNumberCheck", "Problem8\08_PrimeNumberCheck.csproj", "{38D0156F-E68D-4666-BE8E-1A00B975061A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem09", "Problem09\Problem09.csproj", "{B148D792-47FD-45B2-AADB-A9ED0CB1F2A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Trapezoids", "Problem09\09_Trapezoids.csproj", "{B148D792-47FD-45B2-AADB-A9ED0CB1F2A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem10", "Problem10\Problem10.csproj", "{EE69A40F-EB89-4311-A751-0D11A49D1241}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_CircleAndRechtangle", "Problem10\10_CircleAndRechtangle.csproj", "{EE69A40F-EB89-4311-A751-0D11A49D1241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11", "Problem11\Problem11.csproj", "{32A830CE-BB3F-43AB-A83B-DDB949576962}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_ExtractBit3", "Problem11\11_ExtractBit3.csproj", "{32A830CE-BB3F-43AB-A83B-DDB949576962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_ExtractBitfromInteger", "12_ExtractBitfromInteger\12_ExtractBitfromInteger.csproj", "{AF5EA5E3-FF79-4B92-B61F-4AC73BCC6CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_CheckBitAtPosition", "13_CheckBitAtPosition\13_CheckBitAtPosition.csproj", "{49BCBE8C-13EF-478F-BE42-FB500295669D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_ModifyBitAtGivenPosition", "14_ModifyBitAtGivenPosition\14_ModifyBitAtGivenPosition.csproj", "{A5EDDA19-8276-4774-AA23-FD047BB25A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_BitsExchange", "15_BitsExchange\15_BitsExchange.csproj", "{4DA883AF-3C49-49CC-8BC8-910335B58666}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +83,22 @@ Global
 		{32A830CE-BB3F-43AB-A83B-DDB949576962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32A830CE-BB3F-43AB-A83B-DDB949576962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32A830CE-BB3F-43AB-A83B-DDB949576962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5EA5E3-FF79-4B92-B61F-4AC73BCC6CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5EA5E3-FF79-4B92-B61F-4AC73BCC6CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5EA5E3-FF79-4B92-B61F-4AC73BCC6CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5EA5E3-FF79-4B92-B61F-4AC73BCC6CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BCBE8C-13EF-478F-BE42-FB500295669D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BCBE8C-13EF-478F-BE42-FB500295669D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BCBE8C-13EF-478F-BE42-FB500295669D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BCBE8C-13EF-478F-BE42-FB500295669D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EDDA19-8276-4774-AA23-FD047BB25A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EDDA19-8276-4774-AA23-FD047BB25A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EDDA19-8276-4774-AA23-FD047BB25A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EDDA19-8276-4774-AA23-FD047BB25A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA883AF-3C49-49CC-8BC8-910335B58666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA883AF-3C49-49CC-8BC8-910335B58666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA883AF-3C49-49CC-8BC8-910335B58666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA883AF-3C49-49CC-8BC8-910335B58666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

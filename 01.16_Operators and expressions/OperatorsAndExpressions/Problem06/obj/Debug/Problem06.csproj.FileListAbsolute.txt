@@ -6,9 +6,3 @@ C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\Opera
 C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\bin\Debug\Problem06.exe.config
 C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\obj\Debug\Problem06.exe
 C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\obj\Debug\Problem06.pdb
-C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\bin\Debug\Problem06.exe.config
-C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\obj\Debug\Problem06.exe
-C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\obj\Debug\Problem06.pdb
-C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\bin\Debug\Problem06.exe
-C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\bin\Debug\Problem06.pdb
-C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem06\obj\Debug\Problem06.csprojResolveAssemblyReference.cache

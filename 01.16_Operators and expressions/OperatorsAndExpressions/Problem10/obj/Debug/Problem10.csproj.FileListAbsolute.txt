@@ -1,2 +1,6 @@
 C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem10\bin\Debug\Problem10.exe.config
-C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem10\bin\Debug\Problem10.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem10\bin\Debug\Problem10.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem10\bin\Debug\Problem10.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem10\obj\Debug\Problem10.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem10\obj\Debug\Problem10.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\Problem10\obj\Debug\Problem10.csprojResolveAssemblyReference.cache

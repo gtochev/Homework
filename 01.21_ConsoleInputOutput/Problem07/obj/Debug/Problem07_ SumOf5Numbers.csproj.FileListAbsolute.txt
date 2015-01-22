@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.21_ConsoleInputOutput\Problem07\bin\Debug\Problem07.exe.config
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.21_ConsoleInputOutput\Problem07\bin\Debug\Problem07.exe
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.21_ConsoleInputOutput\Problem07\bin\Debug\Problem07.pdb
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.21_ConsoleInputOutput\Problem07\obj\Debug\Problem07_ SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.21_ConsoleInputOutput\Problem07\obj\Debug\Problem07.exe
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.21_ConsoleInputOutput\Problem07\obj\Debug\Problem07.pdb

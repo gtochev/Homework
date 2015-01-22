@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\14_ModifyBitAtGivenPosition\bin\Debug\14_ModifyBitAtGivenPosition.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\14_ModifyBitAtGivenPosition\bin\Debug\14_ModifyBitAtGivenPosition.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\14_ModifyBitAtGivenPosition\bin\Debug\14_ModifyBitAtGivenPosition.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\14_ModifyBitAtGivenPosition\obj\Debug\14_ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\14_ModifyBitAtGivenPosition\obj\Debug\14_ModifyBitAtGivenPosition.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\14_ModifyBitAtGivenPosition\obj\Debug\14_ModifyBitAtGivenPosition.pdb
