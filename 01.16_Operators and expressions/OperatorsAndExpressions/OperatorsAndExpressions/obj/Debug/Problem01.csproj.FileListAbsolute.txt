@@ -7,3 +7,6 @@ C:\Users\tochevg\From Old\C Sharp\Homework\Operators and expressions 01.16\Opera
 C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe.config
 C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.exe
 C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe.config
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.exe
+C:\Users\tochevg\From Old\C Sharp\GitHub\Homework\01.16_Operators and expressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb
