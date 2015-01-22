@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem2\bin\Debug\Problem2.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem2\bin\Debug\Problem2.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem2\obj\Debug\Problem2.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem2\obj\Debug\Problem2.pdb

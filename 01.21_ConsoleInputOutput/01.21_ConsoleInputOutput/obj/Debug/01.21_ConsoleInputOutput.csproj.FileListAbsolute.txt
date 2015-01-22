@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\01.21_ConsoleInputOutput\bin\Debug\01.21_ConsoleInputOutput.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\01.21_ConsoleInputOutput\bin\Debug\01.21_ConsoleInputOutput.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\01.21_ConsoleInputOutput\bin\Debug\01.21_ConsoleInputOutput.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\01.21_ConsoleInputOutput\obj\Debug\01.21_ConsoleInputOutput.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\01.21_ConsoleInputOutput\obj\Debug\01.21_ConsoleInputOutput.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\01.21_ConsoleInputOutput\obj\Debug\01.21_ConsoleInputOutput.pdb
