@@ -13,8 +13,8 @@ namespace Problem05
             int a = int.Parse(Console.ReadLine());
             float b = float.Parse(Console.ReadLine());
             float c = float.Parse(Console.ReadLine());
-            string binaryNumber = Convert.ToString(a, 2);
-            Console.Write("{0:x}", a);
+            string binaryNumber = Convert.ToString(a, 2).PadLeft(10, '0');
+            Console.Write("{0:X}", a);
             Console.Write("|{0}|", binaryNumber);
             Console.Write("{0:F2}", b);
             Console.WriteLine("|{0,-6:F3}|", c);

@@ -10,12 +10,7 @@ namespace Problem07
     {
         static void Main(string[] args)
         {
-            int place = 5;
-            int number = 35;
-            int mask = 1 << place;
-            int andMask = number & mask;
-            int bitPlace = andMask >> place;
-            Console.WriteLine(bitPlace);
+            string mazalo = Console.Read();
 
         }
     }

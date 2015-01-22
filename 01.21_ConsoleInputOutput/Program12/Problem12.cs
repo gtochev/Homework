@@ -10,6 +10,7 @@ namespace Program12
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I hope I'll have time to finish this before27/01/2015, 23:59!");
         }
     }
 }
