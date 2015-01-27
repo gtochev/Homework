@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem12_FallingRocks\bin\Debug\Problem12_FallingRocks.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem12_FallingRocks\obj\Debug\Problem12_FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem12_FallingRocks\bin\Debug\Problem12_FallingRocks.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem12_FallingRocks\bin\Debug\Problem12_FallingRocks.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem12_FallingRocks\obj\Debug\Problem12_FallingRocks.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.21_ConsoleInputOutput\Problem12_FallingRocks\obj\Debug\Problem12_FallingRocks.pdb

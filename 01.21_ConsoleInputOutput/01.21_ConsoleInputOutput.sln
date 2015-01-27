@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem10_FibonacciNumbers"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11_NumbersInIntervalEtc", "Problem11\Problem11_NumbersInIntervalEtc.csproj", "{33304CE9-467E-4784-943D-5927FE576A72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem12_FallingRocks", "Program12\Problem12_FallingRocks.csproj", "{6EE96B24-E23E-4138-85BA-1F072E2721AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem12_FallingRocks", "Problem12_FallingRocks\Problem12_FallingRocks.csproj", "{688DD1AA-4AB5-40B1-B837-A178C03A9650}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,10 +77,10 @@ Global
 		{33304CE9-467E-4784-943D-5927FE576A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33304CE9-467E-4784-943D-5927FE576A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33304CE9-467E-4784-943D-5927FE576A72}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6EE96B24-E23E-4138-85BA-1F072E2721AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6EE96B24-E23E-4138-85BA-1F072E2721AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6EE96B24-E23E-4138-85BA-1F072E2721AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6EE96B24-E23E-4138-85BA-1F072E2721AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688DD1AA-4AB5-40B1-B837-A178C03A9650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688DD1AA-4AB5-40B1-B837-A178C03A9650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688DD1AA-4AB5-40B1-B837-A178C03A9650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688DD1AA-4AB5-40B1-B837-A178C03A9650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

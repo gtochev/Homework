@@ -10,7 +10,14 @@ namespace Problem07
     {
         static void Main(string[] args)
         {
-            string mazalo = Console.Read();
+            string[] numbers = Console.ReadLine().Split(' ');
+            double sum = 0;
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                sum += Convert.ToDouble(numbers[i]);
+            }
+            Console.WriteLine(sum);
 
         }
     }
