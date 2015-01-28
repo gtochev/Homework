@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\PetReda\bin\Debug\PetReda.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\PetReda\bin\Debug\PetReda.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\PetReda\bin\Debug\PetReda.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\PetReda\obj\Debug\PetReda.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\PetReda\obj\Debug\PetReda.pdb

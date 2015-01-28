@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ReversingOrderOfBinary\bin\Debug\ReversingOrderOfBinary.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ReversingOrderOfBinary\bin\Debug\ReversingOrderOfBinary.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ReversingOrderOfBinary\bin\Debug\ReversingOrderOfBinary.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ReversingOrderOfBinary\obj\Debug\ReversingOrderOfBinary.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ReversingOrderOfBinary\obj\Debug\ReversingOrderOfBinary.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ReversingOrderOfBinary\obj\Debug\ReversingOrderOfBinary.pdb

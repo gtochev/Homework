@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_04_Pillars\bin\Debug\12.06.2011_04_Pillars.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_04_Pillars\bin\Debug\12.06.2011_04_Pillars.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_04_Pillars\bin\Debug\12.06.2011_04_Pillars.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_04_Pillars\obj\Debug\12.06.2011_05_Pillars.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_04_Pillars\obj\Debug\12.06.2011_04_Pillars.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_04_Pillars\obj\Debug\12.06.2011_04_Pillars.pdb

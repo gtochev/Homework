@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\Quadranachi\bin\Debug\Quadranachi.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\Quadranachi\obj\Debug\Quadranachi.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\Quadranachi\obj\Debug\Quadranachi.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\Quadranachi\bin\Debug\Quadranachi.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\Quadranachi\bin\Debug\Quadranachi.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\Quadranachi\obj\Debug\12.06.2011_04_WeAllLoveBits.csprojResolveAssemblyReference.cache

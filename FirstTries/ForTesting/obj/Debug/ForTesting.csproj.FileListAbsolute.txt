@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ForTesting\bin\Debug\ForTesting.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ForTesting\bin\Debug\ForTesting.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ForTesting\bin\Debug\ForTesting.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ForTesting\obj\Debug\ForTesting.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ForTesting\obj\Debug\ForTesting.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\ForTesting\obj\Debug\ForTesting.pdb

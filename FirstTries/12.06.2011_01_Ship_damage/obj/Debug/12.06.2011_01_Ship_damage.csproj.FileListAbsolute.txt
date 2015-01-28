@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_01_Ship_damage\bin\Debug\12.06.2011_01_Ship_damage.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_01_Ship_damage\obj\Debug\12.06.2011_01_Ship_damage.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_01_Ship_damage\bin\Debug\12.06.2011_01_Ship_damage.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_01_Ship_damage\bin\Debug\12.06.2011_01_Ship_damage.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_01_Ship_damage\obj\Debug\12.06.2011_01_Ship_damage.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_01_Ship_damage\obj\Debug\12.06.2011_01_Ship_damage.pdb

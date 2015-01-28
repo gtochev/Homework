@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_02_Nightmare\bin\Debug\12.06.2013_02_Nightmare.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_02_Nightmare\bin\Debug\12.06.2013_02_Nightmare.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_02_Nightmare\bin\Debug\12.06.2013_02_Nightmare.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_02_Nightmare\obj\Debug\12.06.2013_02_Evening_Nightmare.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_02_Nightmare\obj\Debug\12.06.2013_02_Nightmare.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_02_Nightmare\obj\Debug\12.06.2013_02_Nightmare.pdb

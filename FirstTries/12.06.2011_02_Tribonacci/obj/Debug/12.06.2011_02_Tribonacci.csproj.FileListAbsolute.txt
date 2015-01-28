@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_02_Tribonacci\bin\Debug\12.06.2011_02_Tribonacci.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_02_Tribonacci\bin\Debug\12.06.2011_02_Tribonacci.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_02_Tribonacci\bin\Debug\12.06.2011_02_Tribonacci.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_02_Tribonacci\obj\Debug\12.06.2011_02_Tribonacci.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_02_Tribonacci\obj\Debug\12.06.2011_02_Tribonacci.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2011_02_Tribonacci\obj\Debug\12.06.2011_02_Tribonacci.pdb

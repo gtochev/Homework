@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_03_Evening_Boat\bin\Debug\12.06.2013_03_Evening_Boat.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_03_Evening_Boat\bin\Debug\12.06.2013_03_Evening_Boat.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_03_Evening_Boat\bin\Debug\12.06.2013_03_Evening_Boat.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_03_Evening_Boat\obj\Debug\12.06.2013_03_Evening_Boat.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_03_Evening_Boat\obj\Debug\12.06.2013_03_Evening_Boat.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.06.2013_03_Evening_Boat\obj\Debug\12.06.2013_03_Evening_Boat.csprojResolveAssemblyReference.cache

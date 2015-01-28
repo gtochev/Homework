@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\FirstTries\bin\Debug\FirstTries.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\FirstTries\obj\Debug\FirstTries.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\FirstTries\bin\Debug\FirstTries.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\FirstTries\bin\Debug\FirstTries.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\FirstTries\obj\Debug\FirstTries.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\FirstTries\obj\Debug\FirstTries.pdb
