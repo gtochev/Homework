@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\08_DigitAsWord\bin\Debug\08_DigitAsWord.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\08_DigitAsWord\obj\Debug\08_DigitAsWord.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\08_DigitAsWord\obj\Debug\08_DigitAsWord.pdb

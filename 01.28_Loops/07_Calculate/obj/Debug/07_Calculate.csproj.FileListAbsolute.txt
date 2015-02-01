@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\07_Calculate\bin\Debug\07_Calculate.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\07_Calculate\bin\Debug\07_Calculate.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\07_Calculate\bin\Debug\07_Calculate.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\07_Calculate\obj\Debug\07_Calculate.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\07_Calculate\obj\Debug\07_Calculate.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\07_Calculate\obj\Debug\07_Calculate.csprojResolveAssemblyReference.cache

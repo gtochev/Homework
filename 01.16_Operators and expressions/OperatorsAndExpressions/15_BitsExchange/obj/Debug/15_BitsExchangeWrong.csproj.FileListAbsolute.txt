@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\15_BitsExchange\bin\Debug\15_BitsExchange.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\15_BitsExchange\obj\Debug\15_BitsExchange.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\15_BitsExchange\obj\Debug\15_BitsExchange.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\15_BitsExchange\bin\Debug\15_BitsExchange.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\15_BitsExchange\bin\Debug\15_BitsExchange.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.16_Operators and expressions\OperatorsAndExpressions\15_BitsExchange\obj\Debug\15_BitsExchangeWrong.csprojResolveAssemblyReference.cache

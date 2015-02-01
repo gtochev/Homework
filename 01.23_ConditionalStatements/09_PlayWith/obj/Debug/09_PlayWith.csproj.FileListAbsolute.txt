@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\09_PlayWith\bin\Debug\09_PlayWith.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\09_PlayWith\bin\Debug\09_PlayWith.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\09_PlayWith\bin\Debug\09_PlayWith.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\09_PlayWith\obj\Debug\09_PlayWith.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\09_PlayWith\obj\Debug\09_PlayWith.pdb

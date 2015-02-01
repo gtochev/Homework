@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_02_DrunkenNumbers\bin\Debug\06.23.2013_02_DrunkenNumbers.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_02_DrunkenNumbers\bin\Debug\06.23.2013_02_DrunkenNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_02_DrunkenNumbers\bin\Debug\06.23.2013_02_DrunkenNumbers.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_02_DrunkenNumbers\obj\Debug\06.23.2013_02_DrunkenNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_02_DrunkenNumbers\obj\Debug\06.23.2013_02_DrunkenNumbers.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_02_DrunkenNumbers\obj\Debug\06.23.2013_02_DrunkenNumbers.csprojResolveAssemblyReference.cache

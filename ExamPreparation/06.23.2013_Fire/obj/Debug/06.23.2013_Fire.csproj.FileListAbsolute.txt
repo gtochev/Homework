@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_Fire\bin\Debug\06.23.2013_Fire.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_Fire\bin\Debug\06.23.2013_Fire.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_Fire\bin\Debug\06.23.2013_Fire.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_Fire\obj\Debug\06.23.2013_Fire.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_Fire\obj\Debug\06.23.2013_Fire.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_Fire\obj\Debug\06.23.2013_Fire.pdb

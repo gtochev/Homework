@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\03_MinMaxSumAndAverageN\bin\Debug\03_MinMaxSumAndAverageN.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\03_MinMaxSumAndAverageN\bin\Debug\03_MinMaxSumAndAverageN.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\03_MinMaxSumAndAverageN\bin\Debug\03_MinMaxSumAndAverageN.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\03_MinMaxSumAndAverageN\obj\Debug\03_MinMaxSumAndAverageN.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\03_MinMaxSumAndAverageN\obj\Debug\03_MinMaxSumAndAverageN.pdb

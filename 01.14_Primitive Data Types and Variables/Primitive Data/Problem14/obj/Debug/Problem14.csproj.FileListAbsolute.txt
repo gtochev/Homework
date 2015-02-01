@@ -3,3 +3,6 @@ C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01
 C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem14\bin\Debug\Problem14.pdb
 C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem14\obj\Debug\Problem14.exe
 C:\Users\tochevg\From Old\C Sharp\Homework\Primitive Data Types and Variables 01.14\Primitive Data\Problem14\obj\Debug\Problem14.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.14_Primitive Data Types and Variables\Primitive Data\Problem14\bin\Debug\Problem14.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.14_Primitive Data Types and Variables\Primitive Data\Problem14\obj\Debug\Problem14.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.14_Primitive Data Types and Variables\Primitive Data\Problem14\obj\Debug\Problem14.pdb

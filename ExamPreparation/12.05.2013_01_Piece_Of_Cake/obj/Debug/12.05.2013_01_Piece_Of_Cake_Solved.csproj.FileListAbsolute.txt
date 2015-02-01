@@ -1,0 +1,3 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_01_Piece_Of_Cake\bin\Debug\12.05.2013_01_Piece_Of_Cake.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_01_Piece_Of_Cake\obj\Debug\12.05.2013_01_Piece_Of_Cake.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_01_Piece_Of_Cake\obj\Debug\12.05.2013_01_Piece_Of_Cake.pdb

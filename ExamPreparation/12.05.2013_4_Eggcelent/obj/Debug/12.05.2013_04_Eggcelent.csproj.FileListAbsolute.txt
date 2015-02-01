@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_4_Eggcelent\bin\Debug\12.05.2013_4_Eggcelent.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_4_Eggcelent\obj\Debug\12.05.2013_04_Eggcelent.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_4_Eggcelent\bin\Debug\12.05.2013_4_Eggcelent.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_4_Eggcelent\bin\Debug\12.05.2013_4_Eggcelent.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_4_Eggcelent\obj\Debug\12.05.2013_4_Eggcelent.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_4_Eggcelent\obj\Debug\12.05.2013_4_Eggcelent.pdb

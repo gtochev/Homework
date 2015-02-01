@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_03_OnesZeros\bin\Debug\12.05.2013_03_OnesZeros.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_03_OnesZeros\bin\Debug\12.05.2013_03_OnesZeros.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_03_OnesZeros\bin\Debug\12.05.2013_03_OnesZeros.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_03_OnesZeros\obj\Debug\12.05.2013_03_OnesZeros.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_03_OnesZeros\obj\Debug\12.05.2013_03_OnesZeros.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_03_OnesZeros\obj\Debug\12.05.2013_03_OnesZeros.pdb

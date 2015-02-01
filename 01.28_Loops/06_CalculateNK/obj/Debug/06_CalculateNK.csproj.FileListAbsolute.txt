@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\06_CalculateNK\bin\Debug\06_CalculateNK.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\06_CalculateNK\bin\Debug\06_CalculateNK.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\06_CalculateNK\bin\Debug\06_CalculateNK.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\06_CalculateNK\obj\Debug\06_CalculateNK.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\06_CalculateNK\obj\Debug\06_CalculateNK.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\06_CalculateNK\obj\Debug\06_CalculateNK.pdb

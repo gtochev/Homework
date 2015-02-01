@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\15_HexaToDec\bin\Debug\15_HexaToDec.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\15_HexaToDec\bin\Debug\15_HexaToDec.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\15_HexaToDec\bin\Debug\15_HexaToDec.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\15_HexaToDec\obj\Debug\15_HexaToDec.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\15_HexaToDec\obj\Debug\15_HexaToDec.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\15_HexaToDec\obj\Debug\15_HexaToDec.pdb

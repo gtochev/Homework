@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\11_NumbersAsWords\bin\Debug\11_NumbersAsWords.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\11_NumbersAsWords\bin\Debug\11_NumbersAsWords.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\11_NumbersAsWords\bin\Debug\11_NumbersAsWords.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\11_NumbersAsWords\obj\Debug\11_NumbersAsWords.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\11_NumbersAsWords\obj\Debug\11_NumbersAsWords.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\11_NumbersAsWords\obj\Debug\11_NumbersAsWords.pdb

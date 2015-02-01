@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\01.28_Loops\bin\Debug\01.28_Loops.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\01.28_Loops\bin\Debug\01.28_Loops.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\01.28_Loops\bin\Debug\01.28_Loops.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\01.28_Loops\obj\Debug\01.28_Loops.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\01.28_Loops\obj\Debug\01.28_Loops.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\01.28_Loops\obj\Debug\01.28_Loops.pdb

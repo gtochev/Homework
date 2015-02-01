@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\14_DecimalToBInary\bin\Debug\14_DecimalToBInary.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\14_DecimalToBInary\bin\Debug\14_DecimalToBInary.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\14_DecimalToBInary\bin\Debug\14_DecimalToBInary.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\14_DecimalToBInary\obj\Debug\14_DecimalToBInary.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\14_DecimalToBInary\obj\Debug\14_DecimalToBInary.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\14_DecimalToBInary\obj\Debug\14_DecimalToBInary.pdb

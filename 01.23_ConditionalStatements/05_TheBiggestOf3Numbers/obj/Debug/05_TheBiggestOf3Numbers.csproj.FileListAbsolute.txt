@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\05_TheBiggestOf3Numbers\bin\Debug\05_TheBiggestOf3Numbers.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\05_TheBiggestOf3Numbers\bin\Debug\05_TheBiggestOf3Numbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\05_TheBiggestOf3Numbers\bin\Debug\05_TheBiggestOf3Numbers.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\05_TheBiggestOf3Numbers\obj\Debug\05_TheBiggestOf3Numbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\05_TheBiggestOf3Numbers\obj\Debug\05_TheBiggestOf3Numbers.pdb

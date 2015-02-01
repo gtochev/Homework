@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\13_BinaryToDecimal\bin\Debug\13_BinaryToDecimal.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\13_BinaryToDecimal\bin\Debug\13_BinaryToDecimal.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\13_BinaryToDecimal\bin\Debug\13_BinaryToDecimal.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\13_BinaryToDecimal\obj\Debug\13_BinaryToDecimal.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\13_BinaryToDecimal\obj\Debug\13_BinaryToDecimal.pdb

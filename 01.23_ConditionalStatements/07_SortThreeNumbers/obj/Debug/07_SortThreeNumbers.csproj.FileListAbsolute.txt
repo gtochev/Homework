@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\07_SortThreeNumbers\bin\Debug\07_SortThreeNumbers.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\07_SortThreeNumbers\bin\Debug\07_SortThreeNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\07_SortThreeNumbers\bin\Debug\07_SortThreeNumbers.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\07_SortThreeNumbers\obj\Debug\07_SortThreeNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\07_SortThreeNumbers\obj\Debug\07_SortThreeNumbers.pdb

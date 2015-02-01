@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\08_CatlanNumbers\bin\Debug\08_CatlanNumbers.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\08_CatlanNumbers\bin\Debug\08_CatlanNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\08_CatlanNumbers\bin\Debug\08_CatlanNumbers.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\08_CatlanNumbers\obj\Debug\08_CatlanNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\08_CatlanNumbers\obj\Debug\08_CatlanNumbers.pdb

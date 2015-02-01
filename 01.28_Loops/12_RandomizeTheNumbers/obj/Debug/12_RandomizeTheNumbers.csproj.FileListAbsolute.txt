@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\12_RandomizeTheNumbers\bin\Debug\12_RandomizeTheNumbers.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\12_RandomizeTheNumbers\bin\Debug\12_RandomizeTheNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\12_RandomizeTheNumbers\bin\Debug\12_RandomizeTheNumbers.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\12_RandomizeTheNumbers\obj\Debug\12_RandomizeTheNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\12_RandomizeTheNumbers\obj\Debug\12_RandomizeTheNumbers.pdb

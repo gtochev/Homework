@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_CheckBitAtPosition", "13
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_ModifyBitAtGivenPosition", "14_ModifyBitAtGivenPosition\14_ModifyBitAtGivenPosition.csproj", "{A5EDDA19-8276-4774-AA23-FD047BB25A5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_BitsExchange", "15_BitsExchange\15_BitsExchange.csproj", "{4DA883AF-3C49-49CC-8BC8-910335B58666}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_BitsExchangeWrong", "15_BitsExchange\15_BitsExchangeWrong.csproj", "{4DA883AF-3C49-49CC-8BC8-910335B58666}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

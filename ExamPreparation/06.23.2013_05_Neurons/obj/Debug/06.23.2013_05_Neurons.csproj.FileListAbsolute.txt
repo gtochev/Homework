@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_05_Neurons\bin\Debug\06.23.2013_05_Neurons.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_05_Neurons\bin\Debug\06.23.2013_05_Neurons.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_05_Neurons\bin\Debug\06.23.2013_05_Neurons.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_05_Neurons\obj\Debug\06.23.2013_05_Neurons.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_05_Neurons\obj\Debug\06.23.2013_05_Neurons.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_05_Neurons\obj\Debug\06.23.2013_05_Neurons.pdb

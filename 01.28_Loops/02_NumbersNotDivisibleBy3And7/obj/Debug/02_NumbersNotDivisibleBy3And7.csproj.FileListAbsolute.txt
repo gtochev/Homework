@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\02_NumbersNotDivisibleBy3And7\bin\Debug\02_NumbersNotDivisibleBy3And7.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\02_NumbersNotDivisibleBy3And7\bin\Debug\02_NumbersNotDivisibleBy3And7.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\02_NumbersNotDivisibleBy3And7\bin\Debug\02_NumbersNotDivisibleBy3And7.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\02_NumbersNotDivisibleBy3And7\obj\Debug\02_NumbersNotDivisibleBy3And7.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\02_NumbersNotDivisibleBy3And7\obj\Debug\02_NumbersNotDivisibleBy3And7.pdb

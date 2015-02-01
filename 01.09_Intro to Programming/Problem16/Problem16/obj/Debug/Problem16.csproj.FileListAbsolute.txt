@@ -4,3 +4,8 @@ C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem16\
 C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem16\Problem16\bin\Debug\Problem16.pdb
 C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem16\Problem16\obj\Debug\Problem16.exe
 C:\Users\tochevg\From Old\C Sharp\Homework\Intro to Programming 01.09\Problem16\Problem16\obj\Debug\Problem16.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.09_Intro to Programming\Problem16\Problem16\bin\Debug\Problem16.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.09_Intro to Programming\Problem16\Problem16\obj\Debug\Problem16.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.09_Intro to Programming\Problem16\Problem16\obj\Debug\Problem16.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.09_Intro to Programming\Problem16\Problem16\bin\Debug\Problem16.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.09_Intro to Programming\Problem16\Problem16\bin\Debug\Problem16.pdb

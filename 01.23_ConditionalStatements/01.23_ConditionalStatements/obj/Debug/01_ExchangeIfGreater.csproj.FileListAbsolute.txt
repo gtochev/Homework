@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\01.23_ConditionalStatements\bin\Debug\01.23_ConditionalStatements.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\01.23_ConditionalStatements\bin\Debug\01.23_ConditionalStatements.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\01.23_ConditionalStatements\bin\Debug\01.23_ConditionalStatements.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\01.23_ConditionalStatements\obj\Debug\01_ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\01.23_ConditionalStatements\obj\Debug\01.23_ConditionalStatements.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\01.23_ConditionalStatements\obj\Debug\01.23_ConditionalStatements.pdb

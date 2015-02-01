@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\03_CheckForPlayCard\bin\Debug\03_CheckForPlayCard.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\03_CheckForPlayCard\bin\Debug\03_CheckForPlayCard.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\03_CheckForPlayCard\bin\Debug\03_CheckForPlayCard.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\03_CheckForPlayCard\obj\Debug\03_CheckForPlayCard.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\03_CheckForPlayCard\obj\Debug\03_CheckForPlayCard.pdb

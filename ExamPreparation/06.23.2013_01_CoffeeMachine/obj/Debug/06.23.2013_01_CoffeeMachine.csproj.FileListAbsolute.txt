@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_01_CoffeeMachine\bin\Debug\06.23.2013_01_CoffeeMachine.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_01_CoffeeMachine\bin\Debug\06.23.2013_01_CoffeeMachine.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_01_CoffeeMachine\bin\Debug\06.23.2013_01_CoffeeMachine.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_01_CoffeeMachine\obj\Debug\06.23.2013_01_CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_01_CoffeeMachine\obj\Debug\06.23.2013_01_CoffeeMachine.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_01_CoffeeMachine\obj\Debug\06.23.2013_01_CoffeeMachine.pdb

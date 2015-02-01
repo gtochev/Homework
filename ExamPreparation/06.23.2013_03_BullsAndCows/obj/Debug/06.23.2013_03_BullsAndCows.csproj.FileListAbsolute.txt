@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_03_BullsAndCows\bin\Debug\06.23.2013_03_BullsAndCows.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_03_BullsAndCows\bin\Debug\06.23.2013_03_BullsAndCows.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_03_BullsAndCows\bin\Debug\06.23.2013_03_BullsAndCows.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_03_BullsAndCows\obj\Debug\06.23.2013_03_BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_03_BullsAndCows\obj\Debug\06.23.2013_03_BullsAndCows.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\06.23.2013_03_BullsAndCows\obj\Debug\06.23.2013_03_BullsAndCows.pdb

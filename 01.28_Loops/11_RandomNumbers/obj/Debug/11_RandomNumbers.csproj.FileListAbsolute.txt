@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\11_RandomNumbers\bin\Debug\11_RandomNumbers.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\11_RandomNumbers\obj\Debug\11_RandomNumbers.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\11_RandomNumbers\bin\Debug\11_RandomNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\11_RandomNumbers\bin\Debug\11_RandomNumbers.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\11_RandomNumbers\obj\Debug\11_RandomNumbers.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.28_Loops\11_RandomNumbers\obj\Debug\11_RandomNumbers.pdb

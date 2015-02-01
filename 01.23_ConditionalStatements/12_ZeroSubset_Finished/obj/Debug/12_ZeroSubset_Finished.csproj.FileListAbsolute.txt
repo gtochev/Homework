@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\12_ZeroSubset_Finished\bin\Debug\12_ZeroSubset_Finished.exe.config
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\12_ZeroSubset_Finished\obj\Debug\12_ZeroSubset_Finished.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\12_ZeroSubset_Finished\bin\Debug\12_ZeroSubset_Finished.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\12_ZeroSubset_Finished\bin\Debug\12_ZeroSubset_Finished.pdb
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\12_ZeroSubset_Finished\obj\Debug\12_ZeroSubset_Finished.exe
+C:\Users\tochevg\From Old\C Sharp\Homework\01.23_ConditionalStatements\12_ZeroSubset_Finished\obj\Debug\12_ZeroSubset_Finished.pdb

@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_02_Female_GPS\bin\Debug\12.05.2013_02_Female_GPS.exe.config
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_02_Female_GPS\bin\Debug\12.05.2013_02_Female_GPS.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_02_Female_GPS\bin\Debug\12.05.2013_02_Female_GPS.pdb
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_02_Female_GPS\obj\Debug\12.05.2013_02_Female_GPS.exe
+C:\Users\tochevg\From Old\C Sharp\ExamPreparation\FirstTries\12.05.2013_02_Female_GPS\obj\Debug\12.05.2013_02_Female_GPS.pdb
