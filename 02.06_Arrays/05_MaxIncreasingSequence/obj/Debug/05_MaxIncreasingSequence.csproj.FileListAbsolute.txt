@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\05_MaxIncreasingSequence\bin\Debug\05_MaxIncreasingSequence.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\05_MaxIncreasingSequence\bin\Debug\05_MaxIncreasingSequence.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\05_MaxIncreasingSequence\bin\Debug\05_MaxIncreasingSequence.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\05_MaxIncreasingSequence\obj\Debug\05_MaxIncreasingSequence.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\05_MaxIncreasingSequence\obj\Debug\05_MaxIncreasingSequence.pdb

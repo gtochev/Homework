@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\03_SequenceNMatrix\bin\Debug\03_SequenceNMatrix.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\03_SequenceNMatrix\bin\Debug\03_SequenceNMatrix.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\03_SequenceNMatrix\bin\Debug\03_SequenceNMatrix.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\03_SequenceNMatrix\obj\Debug\03_SequenceNMatrix.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\03_SequenceNMatrix\obj\Debug\03_SequenceNMatrix.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\03_SequenceNMatrix\obj\Debug\03_SequenceNMatrix.csprojResolveAssemblyReference.cache

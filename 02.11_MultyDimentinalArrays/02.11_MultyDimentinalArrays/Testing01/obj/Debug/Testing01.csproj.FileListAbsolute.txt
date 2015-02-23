@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\Testing01\bin\Debug\Testing01.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\Testing01\bin\Debug\Testing01.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\Testing01\bin\Debug\Testing01.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\Testing01\obj\Debug\Testing01.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\Testing01\obj\Debug\Testing01.pdb

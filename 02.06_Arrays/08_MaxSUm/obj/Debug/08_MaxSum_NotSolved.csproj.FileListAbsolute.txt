@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\08_MaxSUm\bin\Debug\08_MaxSUm.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\08_MaxSUm\obj\Debug\08_MaxSUm.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\08_MaxSUm\obj\Debug\08_MaxSUm.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\08_MaxSUm\bin\Debug\08_MaxSUm.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\08_MaxSUm\bin\Debug\08_MaxSUm.pdb

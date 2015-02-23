@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\02.20_Strings\obj\Debug\02_ReverseStr.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\02.20_Strings\bin\Debug\02.20_Strings.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\02.20_Strings\bin\Debug\02.20_Strings.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\02.20_Strings\bin\Debug\02.20_Strings.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\02.20_Strings\obj\Debug\02.20_Strings.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\02.20_Strings\obj\Debug\02.20_Strings.pdb

@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\04_SubStrInText\bin\Debug\04_SubStrInText.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\04_SubStrInText\bin\Debug\04_SubStrInText.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\04_SubStrInText\bin\Debug\04_SubStrInText.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\04_SubStrInText\obj\Debug\04_SubStrInText.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\04_SubStrInText\obj\Debug\04_SubStrInText.pdb

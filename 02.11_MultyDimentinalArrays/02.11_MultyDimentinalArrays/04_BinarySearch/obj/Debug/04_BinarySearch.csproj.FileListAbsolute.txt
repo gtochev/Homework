@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\04_BinarySearch\bin\Debug\04_BinarySearch.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\04_BinarySearch\bin\Debug\04_BinarySearch.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\04_BinarySearch\bin\Debug\04_BinarySearch.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\04_BinarySearch\obj\Debug\04_BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\04_BinarySearch\obj\Debug\04_BinarySearch.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\04_BinarySearch\obj\Debug\04_BinarySearch.pdb

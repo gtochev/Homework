@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\07_SelectionSort\bin\Debug\07_SelectionSort.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\07_SelectionSort\bin\Debug\07_SelectionSort.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\07_SelectionSort\bin\Debug\07_SelectionSort.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\07_SelectionSort\obj\Debug\07_SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\07_SelectionSort\obj\Debug\07_SelectionSort.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\07_SelectionSort\obj\Debug\07_SelectionSort.pdb

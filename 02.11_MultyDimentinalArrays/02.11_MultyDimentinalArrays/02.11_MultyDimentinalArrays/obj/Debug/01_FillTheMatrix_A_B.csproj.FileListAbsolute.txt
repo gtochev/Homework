@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\bin\Debug\02.11_MultyDimentinalArrays.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\bin\Debug\02.11_MultyDimentinalArrays.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\bin\Debug\02.11_MultyDimentinalArrays.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\obj\Debug\02.11_MultyDimentinalArrays.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\obj\Debug\02.11_MultyDimentinalArrays.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\02.11_MultyDimentinalArrays\obj\Debug\01_FillTheMatrix_A_B.csprojResolveAssemblyReference.cache

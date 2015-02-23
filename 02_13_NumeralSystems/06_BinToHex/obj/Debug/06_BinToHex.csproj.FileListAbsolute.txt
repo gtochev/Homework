@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\06_BinToHex\bin\Debug\06_BinToHex.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\06_BinToHex\bin\Debug\06_BinToHex.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\06_BinToHex\bin\Debug\06_BinToHex.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\06_BinToHex\obj\Debug\06_BinToHex.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\06_BinToHex\obj\Debug\06_BinToHex.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\06_BinToHex\obj\Debug\06_BinToHex.csprojResolveAssemblyReference.cache

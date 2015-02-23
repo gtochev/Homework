@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\03_CompareCharArrays\bin\Debug\03_CompareCharArrays.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\03_CompareCharArrays\bin\Debug\03_CompareCharArrays.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\03_CompareCharArrays\bin\Debug\03_CompareCharArrays.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\03_CompareCharArrays\obj\Debug\03_CompareCharArrays.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\03_CompareCharArrays\obj\Debug\03_CompareCharArrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\07_ReverseNumber\bin\Debug\07_ReverseNumber.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\07_ReverseNumber\bin\Debug\07_ReverseNumber.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\07_ReverseNumber\bin\Debug\07_ReverseNumber.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\07_ReverseNumber\obj\Debug\07_ReverseNumber.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\07_ReverseNumber\obj\Debug\07_ReverseNumber.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\07_ReverseNumber\obj\Debug\07_ReverseNumber.csprojResolveAssemblyReference.cache

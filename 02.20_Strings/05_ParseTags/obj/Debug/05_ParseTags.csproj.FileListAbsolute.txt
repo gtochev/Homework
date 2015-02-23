@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\05_ParseTags\bin\Debug\05_ParseTags.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\05_ParseTags\bin\Debug\05_ParseTags.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\05_ParseTags\bin\Debug\05_ParseTags.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\05_ParseTags\obj\Debug\05_ParseTags.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\05_ParseTags\obj\Debug\05_ParseTags.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.20_Strings\05_ParseTags\obj\Debug\05_ParseTags.csprojResolveAssemblyReference.cache

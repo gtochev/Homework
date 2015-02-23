@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\02_GetLargestNumber\bin\Debug\02_GetLargestNumber.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\02_GetLargestNumber\bin\Debug\02_GetLargestNumber.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\02_GetLargestNumber\bin\Debug\02_GetLargestNumber.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\02_GetLargestNumber\obj\Debug\02_GetLargestNumber.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\02_GetLargestNumber\obj\Debug\02_GetLargestNumber.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\02_GetLargestNumber\obj\Debug\02_GetLargestNumber.csprojResolveAssemblyReference.cache

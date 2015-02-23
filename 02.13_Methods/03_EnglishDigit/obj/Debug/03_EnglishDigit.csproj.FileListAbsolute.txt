@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\03_EnglishDigit\bin\Debug\03_EnglishDigit.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\03_EnglishDigit\bin\Debug\03_EnglishDigit.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\03_EnglishDigit\bin\Debug\03_EnglishDigit.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\03_EnglishDigit\obj\Debug\03_EnglishDigit.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\03_EnglishDigit\obj\Debug\03_EnglishDigit.pdb

@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\09_FrequentNumber\bin\Debug\09_FrequentNumber.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\09_FrequentNumber\bin\Debug\09_FrequentNumber.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\09_FrequentNumber\bin\Debug\09_FrequentNumber.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\09_FrequentNumber\obj\Debug\09_FrequentNumber.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\09_FrequentNumber\obj\Debug\09_FrequentNumber.pdb

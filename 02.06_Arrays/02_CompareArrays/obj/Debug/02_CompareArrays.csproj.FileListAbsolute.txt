@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\02_CompareArrays\bin\Debug\02_CompareArrays.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\02_CompareArrays\bin\Debug\02_CompareArrays.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\02_CompareArrays\bin\Debug\02_CompareArrays.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\02_CompareArrays\obj\Debug\02_CompareArrays.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\02_CompareArrays\obj\Debug\02_CompareArrays.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\02_CompareArrays\obj\Debug\02_CompareArrays.pdb

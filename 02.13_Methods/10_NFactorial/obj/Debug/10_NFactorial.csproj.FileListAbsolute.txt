@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\10_NFactorial\bin\Debug\10_NFactorial.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\10_NFactorial\bin\Debug\10_NFactorial.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\10_NFactorial\bin\Debug\10_NFactorial.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\10_NFactorial\obj\Debug\10_NFactorial.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\10_NFactorial\obj\Debug\10_NFactorial.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\10_NFactorial\obj\Debug\10_NFactorial.pdb

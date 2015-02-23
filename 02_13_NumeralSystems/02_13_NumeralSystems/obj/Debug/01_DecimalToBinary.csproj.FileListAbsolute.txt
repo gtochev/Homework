@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_13_NumeralSystems\bin\Debug\02_13_NumeralSystems.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_13_NumeralSystems\bin\Debug\02_13_NumeralSystems.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_13_NumeralSystems\bin\Debug\02_13_NumeralSystems.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_13_NumeralSystems\obj\Debug\02_13_NumeralSystems.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_13_NumeralSystems\obj\Debug\02_13_NumeralSystems.pdb

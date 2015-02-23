@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\06_MaxKSum\bin\Debug\06_MaxKSum.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\06_MaxKSum\bin\Debug\06_MaxKSum.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\06_MaxKSum\bin\Debug\06_MaxKSum.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\06_MaxKSum\obj\Debug\06_MaxKSum.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\06_MaxKSum\obj\Debug\06_MaxKSum.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\06_MaxKSum\obj\Debug\06_MaxKSum.pdb

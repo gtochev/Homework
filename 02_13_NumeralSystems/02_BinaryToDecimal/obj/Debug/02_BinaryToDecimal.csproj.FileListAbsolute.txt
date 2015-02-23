@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_BinaryToDecimal\bin\Debug\02_BinaryToDecimal.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_BinaryToDecimal\bin\Debug\02_BinaryToDecimal.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_BinaryToDecimal\bin\Debug\02_BinaryToDecimal.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_BinaryToDecimal\obj\Debug\02_BinaryToDecimal.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_BinaryToDecimal\obj\Debug\02_BinaryToDecimal.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\02_BinaryToDecimal\obj\Debug\02_BinaryToDecimal.csprojResolveAssemblyReference.cache

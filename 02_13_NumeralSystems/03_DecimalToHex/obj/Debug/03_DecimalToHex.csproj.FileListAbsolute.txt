@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\03_DecimalToHex\bin\Debug\03_DecimalToHex.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\03_DecimalToHex\bin\Debug\03_DecimalToHex.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\03_DecimalToHex\bin\Debug\03_DecimalToHex.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\03_DecimalToHex\obj\Debug\03_DecimalToHex.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\03_DecimalToHex\obj\Debug\03_DecimalToHex.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\03_DecimalToHex\obj\Debug\03_DecimalToHex.pdb

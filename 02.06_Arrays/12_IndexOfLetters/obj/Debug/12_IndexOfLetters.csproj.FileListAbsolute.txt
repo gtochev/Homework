@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\12_IndexOfLetters\bin\Debug\12_IndexOfLetters.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\12_IndexOfLetters\bin\Debug\12_IndexOfLetters.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\12_IndexOfLetters\bin\Debug\12_IndexOfLetters.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\12_IndexOfLetters\obj\Debug\12_IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\12_IndexOfLetters\obj\Debug\12_IndexOfLetters.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.06_Arrays\12_IndexOfLetters\obj\Debug\12_IndexOfLetters.pdb

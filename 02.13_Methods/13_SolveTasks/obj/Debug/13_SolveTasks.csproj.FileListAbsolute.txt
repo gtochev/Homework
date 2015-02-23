@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\13_SolveTasks\bin\Debug\13_SolveTasks.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\13_SolveTasks\bin\Debug\13_SolveTasks.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\13_SolveTasks\bin\Debug\13_SolveTasks.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\13_SolveTasks\obj\Debug\13_SolveTasks.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\13_SolveTasks\obj\Debug\13_SolveTasks.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\13_SolveTasks\obj\Debug\13_SolveTasks.pdb

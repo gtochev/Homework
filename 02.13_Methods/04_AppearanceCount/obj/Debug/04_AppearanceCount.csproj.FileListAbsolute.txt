@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\04_AppearanceCount\bin\Debug\04_AppearanceCount.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\04_AppearanceCount\bin\Debug\04_AppearanceCount.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\04_AppearanceCount\bin\Debug\04_AppearanceCount.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\04_AppearanceCount\obj\Debug\04_AppearanceCount.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02.13_Methods\04_AppearanceCount\obj\Debug\04_AppearanceCount.pdb

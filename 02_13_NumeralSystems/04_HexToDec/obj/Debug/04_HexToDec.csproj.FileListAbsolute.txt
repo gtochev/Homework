@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\04_HexToDec\bin\Debug\04_HexToDec.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\04_HexToDec\bin\Debug\04_HexToDec.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\04_HexToDec\bin\Debug\04_HexToDec.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\04_HexToDec\obj\Debug\04_HexToDec.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Homework\02_13_NumeralSystems\04_HexToDec\obj\Debug\04_HexToDec.pdb
